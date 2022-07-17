@@ -1,0 +1,230 @@
+{
+  "courier_id": 924039327,
+  "timeslots": {
+    "17/07/2021": [
+      [
+        "08:00",
+        "10:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "10:00",
+        "12:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan",
+          "Bnei Brak"
+        ]
+      ],
+      [
+        "12:00",
+        "14:00",
+        [
+          "Ramat Gan",
+          "Bnei Brak",
+          "Petah Tikva"
+        ]
+      ],
+      [
+        "14:00",
+        "16:00",
+        [
+          "Bnei Brak",
+          "Petah Tikva",
+          "Rosh Haayin"
+        ]
+      ],
+      [
+        "16:00",
+        "18:00",
+        [
+          "Bnei Brak",
+          "Petah Tikva",
+          "Tel Aviv-Yafo"
+        ]
+      ]
+    ],
+    "18/07/2021": [
+      [
+        "08:00",
+        "10:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "10:00",
+        "12:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan",
+          "Bnei Brak"
+        ]
+      ],
+      [
+        "12:00",
+        "14:00",
+        [
+          "Ramat Gan",
+          "Bnei Brak",
+          "Petah Tikva"
+        ]
+      ],
+      [
+        "14:00",
+        "16:00",
+        [
+          "Bnei Brak",
+          "Petah Tikva",
+          "Rosh Haayin"
+        ]
+      ]
+    ],
+    "19/07/2021": [
+      [
+        "10:00",
+        "12:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "12:00",
+        "14:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "14:00",
+        "16:00",
+        [
+          "Bnei Brak",
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "16:00",
+        "18:00",
+        [
+          "Bnei Brak",
+          "Petah Tikva",
+          "Tel Aviv-Yafo"
+        ]
+      ]
+    ],
+    "20/07/2021": [
+      [
+        "10:00",
+        "12:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "12:00",
+        "14:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "14:00",
+        "16:00",
+        [
+          "Bnei Brak",
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "16:00",
+        "18:00",
+        [
+          "Bnei Brak",
+          "Petah Tikva",
+          "Tel Aviv-Yafo"
+        ]
+      ]
+    ],
+    "21/07/2021": [
+      [
+        "08:00",
+        "10:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "10:00",
+        "12:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "12:00",
+        "14:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "14:00",
+        "16:00",
+        [
+          "Bnei Brak",
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "16:00",
+        "18:00",
+        [
+          "Bnei Brak",
+          "Petah Tikva",
+          "Tel Aviv-Yafo"
+        ]
+      ]
+    ],
+    "22/07/2021": [
+      [
+        "08:00",
+        "10:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "10:00",
+        "12:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ],
+      [
+        "12:00",
+        "14:00",
+        [
+          "Tel Aviv-Yafo",
+          "Ramat Gan"
+        ]
+      ]
+    ]
+  }
+}
